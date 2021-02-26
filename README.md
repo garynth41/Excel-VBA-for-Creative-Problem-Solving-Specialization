@@ -7,12 +7,6 @@ This Specialization is for learners wishing to dramatically change the way that 
 # Applied Learning Project
 Learners will complete one easy project (chosen from two potential projects), one intermediate project (chosen from two potential projects), and a third, required Monte Carlo simulation project (intermediate in difficulty).  Projects include: Real-Time Currency Converter, Geography Toolbox, Ultimate Organizer, Regression Toolbox, Monte Carlo Simulation, and Grade Manager.
 
-# Courses:
-1. Excel/VBA for Creative Problem Solving, Part 1
-2. Excel/VBA for Creative Problem Solving, Part 2
-3. Excel/VBA for Creative Problem Solving, Part 3(Projects)
-
-
 # Instructor
 - Charlie Nuttelman
 - Senior Instructor
